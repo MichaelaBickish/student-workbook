@@ -1,5 +1,5 @@
 # Day 2 - Html/ Css
-
+ 
 ## Daily Journal
 
 Read Building Blocks Of Web Development > CSS and answer the following questions
