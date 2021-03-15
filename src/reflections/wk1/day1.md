@@ -1,15 +1,10 @@
-# Day 1 - Intro Codeworks
+# 1 - Git 101
 
-What I learned in coding school is how to code.
 
-##  Daily Journal
+## Why do we use Git?
 
-Read Building Blocks Of Web Development > GIT 101 and answer the following questions
+## What are the benefits of having multiple branches?
 
-###Why do we use Git?
-
-What are the benefits of having multiple branches?
-
-What is the difference between Git and GitHub
+## What is the difference between Git and GitHub
 
 Complete Week 1 Vocabulary
