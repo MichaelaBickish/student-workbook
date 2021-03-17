@@ -1,4 +1,5 @@
-Daily Journal
+# 3 - Bootstrap
+
 Read Building Blocks Of Web Development > Cheating At Design and answer the following questions
 What is your favorite tip that you think is the most beneficial to improving your design?
 
