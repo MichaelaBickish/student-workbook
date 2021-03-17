@@ -1,6 +1,8 @@
 # 2 - HTML / CSS
  
 
+Afternoon project: https://github.com/MichaelaBickish/cool-site
+
 ## **What is a Pseudo-Class and what are some of the most common ones you think you will use?**
 A pseudo class is a keyword added to a selector that will allow you to style a certain part of the element. 
 
