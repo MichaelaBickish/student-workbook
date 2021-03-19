@@ -1,6 +1,7 @@
 # 4 - Wire-framing
 
-
+Afternoon project with Ethan:
+https://github.com/MichaelaBickish/cloneJDeere
 
 ## **What is the purpose of wire-framing?**
 Wire-framing is the starting point of a product life cycle.
