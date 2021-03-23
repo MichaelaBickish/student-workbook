@@ -1,5 +1,6 @@
 # 1 | 3/22/2021 Journal
 
+Afternoon project: https://github.com/MichaelaBickish/js-tests-basics
 
 ## *What is Scope ?*
 Where a variable is is available for use. For example, when var is declared outside a function, it's globally scoped vs when it's declared inside a function, it's function/locally scoped.
