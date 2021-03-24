@@ -1,6 +1,6 @@
 # 2 | 3/23/2021 Journal
 
-Read Intro to JS > JavaScript Functions and answer the following questions
+Afternoon Project: https://github.com/MichaelaBickish/js-tests-loops-and-arrays
 
 ## *What are the three ways to syntactically write a function? What are the differences in how the function acts (if any)?*
 **1** function declaration: can be used before it's defined because the function definition is hoisted.
