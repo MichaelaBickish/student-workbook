@@ -1,11 +1,11 @@
 # 3 | 3/24/2021 Journal
 
-Afternoon Project:
+Afternoon Project: https://github.com/MichaelaBickish/rockpaperscissors
 
 ## *What are the main ways to write information to the console? Why/when should you use each style.*
-**1** console.log() - can help you see when & where something is happening.
+Printing to the console using console.log() allows you to see when and where something is happening and the value of a variable at the time console.log is called. Useful to use inside functions to make sure they work!
 
-**2** 
+Using the console.error() method writes an error message to the console. This can be used for testing purposes.
 
 ## *Which tab allows you to see the breakdown of HTML/CSS and how can this tab be useful when debugging HTML? *
 Elements tab. You can see view each element in detail. It can be helpful when debugging because you can directly manipulate the page and see the results instantly. This can provide quicker solutions instead of having to save, refresh, etc.
