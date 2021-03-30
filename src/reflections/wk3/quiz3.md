@@ -3,7 +3,7 @@
 **1.** What are the Pillars of Object Oriented Programming (`OOP`)?
 <!-- enter you answer in the space below -->
 ```
-
+Abstraction, Encapsulation, inheritance, polymorphism.
 ```
 **2.** How would you access the `name` of the below object using the `property` variable?
 ```js
@@ -21,17 +21,17 @@ let property = 'name'
 **3.** What is Encapsulation?
 <!-- enter you answer in the space below -->
 ```
-
+Breaking up code into smaller, well-organized, "like" files where some data may be private.
 ```
 **4.** What does the S stand for in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Single responsibility
 ```
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
 ```
-
+A class is the blueprint for something. An instance of a class is where something is actually being built or created using the class's blueprint.
 ```
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
