@@ -9,7 +9,7 @@ It allows only the info you want exported to be exported. Anything else declared
 The ability to export specific code to another module eliminated having to rewrite the same code in another module. It also eliminated having to attach the script again which affects page performance.
 
 ## *How does export differ from export default?*
-
+By just using export, you can export multiple objects. export default will export 1.
 
 ## *What is a benefit of using the Module System?*
 Code can be split into better organized, smaller "like" files, increasing performance and making debugging easier.
