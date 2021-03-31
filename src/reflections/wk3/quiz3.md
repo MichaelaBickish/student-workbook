@@ -36,7 +36,7 @@ A class is the blueprint for something. An instance of a class is where somethin
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
 ```
-
+To allow you to provide custom functionality to basic operation that can be performed on an object.
 ```
 
 **7.** What is the purpose of the `MVC` pattern?
@@ -47,13 +47,13 @@ A class is the blueprint for something. An instance of a class is where somethin
 **8.** What is the job of the `Controller` in the `MVC` Pattern?
 <!-- enter you answer in the space below -->
 ```
-
+To be a courier of info. To process information received from the DOM, and tell service that some data needs to change i.e. request the change.
 ```
 
 **9.** What is the job of the `Service` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-
+Takes the request from the controller & uses data from the state to do business logic to make the change happen.
 ```
 **10.** What is the job of the `Model` in `MVC`?
 <!-- enter you answer in the space below -->

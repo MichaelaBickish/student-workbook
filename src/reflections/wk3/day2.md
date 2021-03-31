@@ -1,5 +1,7 @@
 # #2 | 3/30/21 Journal
 
+Afternoon Project: https://github.com/MichaelaBickish/vendmachine 
+
 Read Advancing with JS > Encapsulation in JavaScript and answer the following questions
 
 ## *What is the purpose of Encapsulation?*
