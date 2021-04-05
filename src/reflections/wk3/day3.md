@@ -1,6 +1,6 @@
 # #3 | 3/31/21 Journal
 
-Afternoon Project: 
+Afternoon Project: https://github.com/MichaelaBickish/spring21-gregslist
 
 Read Advancing with JS > An Intro to Javascript Proxy Objects and answer the following questions
 
