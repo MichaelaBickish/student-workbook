@@ -3,7 +3,7 @@
 **1.** When using the Vue `cli` what is the command to initialize a project?
 <!-- enter you answer in the space below -->
 ```
-
+vue create 
 ```
 **2.** Where can you find the scripts to startup you project on localhost?
 <!-- enter you answer in the space below -->
@@ -18,22 +18,22 @@
 **4.** What are the three tags that make up a Vue component?
 <!-- enter you answer in the space below -->
 ```
-
+template, script, style
 ```
 **5.** What does the `L` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Liskov Substitution: parent classes should be easily substituted with their child classes without blowing up the application
 ```
 **6.** Which component in Vue does the vue-router use to mount pages onto?
 <!-- enter you answer in the space below -->
 ```
-
+app.vue
 ```
 **7.** What is the difference between the `AppState` and the state object within a component?
 <!-- enter you answer in the space below -->
 ```
-
+The state object within in the component is only available within THAT component. The Appstate data is available to any component.
 ```
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
@@ -53,5 +53,5 @@
 **12.** What is the Vue method used to create watchable objects such as `state` or `AppState`?
 <!-- enter you answer in the space below -->
 ```
-
+reactive
 ```
