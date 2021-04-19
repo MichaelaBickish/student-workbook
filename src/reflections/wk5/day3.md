@@ -1,6 +1,6 @@
 # Week 5 | Day 3 Daily Journal
 
-Afternoon Project:
+Afternoon Project: https://github.com/MichaelaBickish/galaxy-server-day3
 
 Read Servers with Node/Express > MongoDb Relationships and answer the following questions
 

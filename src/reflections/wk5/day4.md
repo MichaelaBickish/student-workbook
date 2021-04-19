@@ -1,6 +1,6 @@
 # Week 5 | Day 4 Daily Journal
 
-Afternoon Project:
+Afternoon Project: https://github.com/ethanboone/hackathon
 
 Read Servers with Node/Express > MongoDb Relationships and answer the following questions
 
