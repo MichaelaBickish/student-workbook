@@ -13,7 +13,7 @@ vue create
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
 <!-- enter you answer in the space below -->
 ```
-
+components!
 ```
 **4.** What are the three tags that make up a Vue component?
 <!-- enter you answer in the space below -->
@@ -38,7 +38,7 @@ The state object within in the component is only available within THAT component
 **9.** What is the responsibility of `Services` in our Vue projects?
 <!-- enter you answer in the space below -->
 ```
-
+much the same as in MVC. Business logic.
 ```
 **10.** Which file contains the root element of your Vue project?
 <!-- enter you answer in the space below -->
@@ -53,5 +53,5 @@ The state object within in the component is only available within THAT component
 **12.** What is the Vue method used to create watchable objects such as `state` or `AppState`?
 <!-- enter you answer in the space below -->
 ```
-reactive
+reactive and computed
 ```
