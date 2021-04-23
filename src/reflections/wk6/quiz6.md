@@ -48,7 +48,7 @@ app.vue
 **11.** The ______ tag is used to alter the styling of your entire Vue project.  Adding the ______ attribute to this tag will limit it to just the component it exists.  Fill in the blank.
 <!-- enter you answer in the space below -->
 ```
-____, scoped attribute limits the  styling to just that componenent.
+the style tag. The scoped attribute limits the styling to just that componenent.
 ```
 **12.** What is the Vue method used to create watchable objects such as `state` or `AppState`?
 <!-- enter you answer in the space below -->
