@@ -8,7 +8,7 @@ vue create
 **2.** Where can you find the scripts to startup you project on localhost?
 <!-- enter you answer in the space below -->
 ```
-
+to start up project on local host, you run npm run serve in your terminal.
 ```
 **3.** What feature of Vue can be used to repeat an element using a collection of data?
 <!-- enter you answer in the space below -->
