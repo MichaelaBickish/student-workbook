@@ -30,12 +30,12 @@ When the page is loaded, any method inside of onMounted will run.
 **5.** What is the `v-model` attribute in Vue for, and when might you use it?
 <!-- enter you answer in the space below -->
 ```
-
+For two-way data bindings on form inputs, textarea's and select elements. To create new objects of an existing property
 ```
 **6.** The `v:on` (`@`) directive can be used for what?
 <!-- enter you answer in the space below -->
 ```
-
+listens to DOM events like @submit or @click and run some javascript when they're triggered.
 ```
 **7.** Which Vue attributes(directives) could you use to conditionally render elements on a page?
 <!-- enter you answer in the space below -->
@@ -51,5 +51,5 @@ The purpose of the key is to have a unique thing to distinguish one element from
 **9.** What is the `<slot>` element and what is it used for?
 <!-- enter you answer in the space below -->
 ```
-
+a way for a component to inject content into a child component. sort of similar to props. getting data from a parent component to a child component.
 ```
