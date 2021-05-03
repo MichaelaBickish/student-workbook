@@ -2,6 +2,8 @@
 
 Reflect on your partner project and answer the following questions
 
+Kanban Checkpoint: https://melia88.github.io/kanban/
+
 ## *Which principles from this weeks reading did you implement?*
 My partner and I implemented JS documentation. I think this will be helpful when we go back to review our project and edit it as well. 
 

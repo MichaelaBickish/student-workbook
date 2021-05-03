@@ -2,6 +2,8 @@
 
 Read Advancing with Vue 3 > Designing a Strong User Experience and answer the following questions
 
+Kanban Checkpoint: https://melia88.github.io/kanban/
+
 ## *What is a User Experience? What should be considered when developing a User Experience?*
 Every interaction the business has with people on it's website, mobile app, mobile site and online properties/services.
 
