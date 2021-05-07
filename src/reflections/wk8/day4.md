@@ -1,6 +1,6 @@
 # Week 8 | Day 4 Daily Journal
 
-Afternoon Project: 
+Afternoon Project: Capstones
 
 Read Working In a Professional Environment > Testing in Vue and answer the following questions
 

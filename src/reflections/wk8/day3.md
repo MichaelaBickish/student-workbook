@@ -1,6 +1,6 @@
 # Week 8 | Day 3 Daily Journal
 
-Afternoon Project: 
+Afternoon Project: Capstones
 
 Read Working In a Professional Environment > Unit Testing and answer the following questions
 
