@@ -5,7 +5,7 @@ Afternoon Project: Working on Bug Checkpoint.
 Read Working In a Professional Environment > An Honest Guide to Building a Powerful Developer Portfolio and answer the following questions
 
 ## *What function does a developer Portfolio provide?*
-Showcases your skill and abilities. Gives insight into 
+Showcases your skill and abilities. Gives insight into your personality.
 
 ## *What makes a Developer Portfolio effective?*
 When projects are meaningful to the developer who created them. When the apps are made with quality code.
