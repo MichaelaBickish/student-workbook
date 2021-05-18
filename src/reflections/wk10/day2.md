@@ -1,6 +1,7 @@
 # Week 10 | Day 2 Daily Journal
 
-Afternoon Project: gregslist cars/houses/jobs controllers API.
+Morning Challenge: CS Login: https://github.com/MichaelaBickish/cslogin-beginner-c-
+Afternoon Project: gregslist cars/houses/jobs controllers API:
 
 Read Foundations of C# > C# List and answer the following questions
 
