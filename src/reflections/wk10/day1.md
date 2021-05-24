@@ -1,6 +1,6 @@
 # Week 10 | Day 1 Daily Journal
 
-Afternoon Project: Rock Paper Scissors Console Game in C#: 
+Afternoon Project: Rock Paper Scissors Console Game in C#: https://github.com/MichaelaBickish/rockpaperscissors-csday1
 
 Read Foundations of C# > C# Data Types and answer the following questions
 
