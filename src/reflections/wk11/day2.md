@@ -1,6 +1,6 @@
 # Week 11 | Day 2 Daily Journal
 
-Afternoon Project: 
+Afternoon Project: contractor/jobs API: https://github.com/MichaelaBickish/contractor
 
 Read Dotnet WebAPI's > Relationships, and answer the following questions
 

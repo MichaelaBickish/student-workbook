@@ -1,6 +1,6 @@
 # Week 11 | Day 1 Daily Journal
 
-Afternoon Project: Burgershack API: 
+Afternoon Project: Burgershack API: https://github.com/MichaelaBickish/spring21-burgershack 
 
 Read Foundations of C# > C# Inheritance and answer the following questions
 
