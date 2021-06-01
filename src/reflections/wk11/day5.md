@@ -4,5 +4,4 @@ Afternoon Project: Starting on Final!!!
 
 ## *Weekly Reflections*
 
-This reflection is an open format, so it can be whatever you like. Take this opportunity to write a bit on some of the things you have learned this week, or some of the things that you are still struggling with, identify some challenges you had at the beginning of the week that you were able to overcome, or just generally how you are feeling at this point in the course.
-
+I started working on my final. My goal was to get my full routes written out for my server. I didn't get them all written out. But I did write out the routes I would need in controller which helped me stay organized. 
